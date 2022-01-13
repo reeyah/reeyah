@@ -10,7 +10,7 @@
 <!-- 🤔 I’m looking for help with ...
 <!-- 💬 Ask me about -->
 
-- 📫 How to reach me: reeyahazarika@gmail.com
+- 📫 How to reach me: <a href="mailto:reeyahazarika@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/reeya-hazarika/">LinkedIn</a>
   <!-- 😄 Pronouns: she/her -->
   <!-- ⚡ Fun fact: ... -->
 
