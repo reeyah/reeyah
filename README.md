@@ -1,5 +1,4 @@
-<h1 align="center">Hello there 👋, <h1>
-
+<h1 align="center">Hello there 👋 <h1>
 <h3 align="center">I am Reeya Hazarika👩 ,currently a B.tech undergraduate in NIT Silchar📘.</h3>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/reeyah)
