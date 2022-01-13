@@ -2,6 +2,8 @@
 
 <h3 align="center">I am Reeya Hazarika👩 ,currently a B.tech undergraduate in NIT Silchar📘.</h3>
 
+![Profile views](https://gpvc.arturio.dev/reeyah)
+
 <!-- 🔭 I’m currently working on  -->
 
 <!-- 🌱 I’m currently learning Machine Learning
