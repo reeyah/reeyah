@@ -29,7 +29,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/reeyah)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reeyah&show_icons=true&locale=en&layout=compact" alt="reeyah" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reeyah&show_icons=true&locale=en&layout=compact" alt="reeyah" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=reeyah&show_icons=true&locale=en" alt="reeyah" /></p>
 
