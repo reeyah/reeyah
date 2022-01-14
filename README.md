@@ -4,16 +4,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reeyah&label=Views&color=0e75b6&style=flat" alt="reeyah" /> </p>
 <p align="left"> <a href="https://twitter.com/reeyahazarika" target="blank"><img src="https://img.shields.io/twitter/follow/reeyahazarika?logo=twitter&style=for-the-badge" alt="reeyahazarika" /></a> </p>
 
-<!-- 🔭 I’m currently working on  -->
-
-<!-- 🌱 I’m currently learning Machine Learning
+- 🔭 I’m currently working on getting better at things I like
+- 🌱 I’m currently learning ML
 <!-- 👯 I’m looking to collaborate on ...
 <!-- 🤔 I’m looking for help with ...
 <!-- 💬 Ask me about -->
-
 - 📫 How to reach me: <a href="mailto:reeyahazarika@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/reeya-hazarika/">LinkedIn</a>
-  <!-- 😄 Pronouns: she/her -->
-  <!-- ⚡ Fun fact: ... -->
+- 😄 Pronouns: she/her
+<!-- ⚡ Fun fact: -->
+
+<h3 align="left">Want to see my past work?</h3>
+<p align="left">Head onto <a href="https://github.com/reeyah/Social-Ecommerce">Social-Ecommerce</a> | <a href="https://github.com/reeyah/MediTracker">MediTracker</a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
