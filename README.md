@@ -6,12 +6,12 @@
 
 - 🔭 I’m currently working on getting better at things I like
 - 🌱 I’m currently learning ML
-<!-- 👯 I’m looking to collaborate on ...
-<!-- 🤔 I’m looking for help with ...
-<!-- 💬 Ask me about -->
 - 📫 How to reach me: <a href="mailto:reeyahazarika@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/reeya-hazarika/">LinkedIn</a>
 - 😄 Pronouns: she/her
-<!-- ⚡ Fun fact: -->
+  <!-- ⚡ Fun fact: -->
+  <!-- 👯 I’m looking to collaborate on ...
+  <!-- 🤔 I’m looking for help with ...
+  <!-- 💬 Ask me about -->
 
 <h3 align="left">Want to see my past work?</h3>
 <p align="left">Head onto <a href="https://github.com/reeyah/Social-Ecommerce">Social-Ecommerce</a> | <a href="https://github.com/reeyah/MediTracker">MediTracker</a> </p>
