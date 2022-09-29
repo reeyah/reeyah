@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reeyah&label=Views&color=0e75b6&style=flat" alt="reeyah" /> </p>
 <p align="left"> <a href="https://twitter.com/reeyahazarika" target="blank"><img src="https://img.shields.io/twitter/follow/reeyahazarika?logo=twitter&style=for-the-badge" alt="reeyahazarika" /></a> </p>
 
-- 🔭 I’m currently working on getting better at things I like
+- 🔭 I’m currently working on getting better at the things I like
 - 🌱 I’m currently learning ML
 - 📫 How to reach me: <a href="mailto:reeyahazarika@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/reeya-hazarika/">LinkedIn</a>
 - 😄 Pronouns: she/her
