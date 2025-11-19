@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋 , I am Reeya Hazarika 👩</h1>
-<h3 align="center">I am Full Stack Web Developer</h3>
+<h3 align="center">I am a Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reeyah&label=Views&color=0e75b6&style=flat" alt="reeyah" /> </p>
 <p align="left"> <a href="https://twitter.com/reeyahazarika" target="blank"><img src="https://img.shields.io/twitter/follow/reeyahazarika?logo=twitter&style=for-the-badge" alt="reeyahazarika" /></a> </p>
